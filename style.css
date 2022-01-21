@@ -1,0 +1,158 @@
+html {
+	margin: auto;
+	display: table;
+}
+
+body{
+	width: 1250px;
+	vertical-align: middle;
+	display: table-cell;
+
+}
+
+.logotipo-globo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.logotipo-globo img {
+	height: 60px;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.barra-topo {
+	display: flex;
+	justify-content: space-between;
+	background-color: #F5F6F7;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	height: 80px;
+
+}
+
+.barra-topo h1, a {
+	font-weight: 700;
+	font-size: 20px;
+	margin: auto 17px;
+	text-decoration-line: none;
+}
+
+.coluna1 {
+	width: 600px;
+	height: 300px;
+	display: flex;
+	align-items: center;
+	margin-left: 30px;
+}
+
+.titulos-principais h1 {
+	font-size: 52px;
+	color: #C4160C;
+	font-weight: 700;
+	line-height: 67px;
+}
+
+.titulos-principais h4 {
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 5px;
+
+
+}
+
+.coluna2 {
+	margin-top: 50px;
+	display: inline-flex;
+	width: 700px;
+
+}
+
+.coluna2 img {
+	height: 110px;
+	border-radius: 12px;
+	width: 193px;
+}
+
+.noticia1, .noticia2 img {
+	margin: 0 0 0 0;
+}
+
+.coluna2 div {
+	width: 230px;
+
+}
+
+.coluna2 p {
+	margin: 15px 15px 0 15px;
+
+}
+
+.coluna2 h1 {
+	font-size: 18px;
+	margin-left: 15px;
+}
+
+.coluna3 {
+	margin-top: 30px;
+	display: inline-flex;
+	width: 700px;
+}
+
+.coluna3 p {
+	font-size: 15px;
+	margin: 15px 15px 0 15px;
+}
+
+.coluna3 h1, a {
+	font-size: 18px;
+	margin-left: 15px;
+	margin: 0px 0px 0px 15px;
+}
+
+.coluna3 div {	
+	width: 230px;
+}
+
+.front-page {
+	display: flex;
+}
+
+
+.container2 div {
+	width: 300px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.container2 img {
+	height: 128px;
+	border-radius: 12px;
+	width:	240px;
+}
+
+.container2 h1, a {
+	font-size: 18px;
+	color: black;
+}
+
+.bloco1, .bloco2, .bloco3 {
+	display: inline-flex;
+	margin-top: 20px;
+}
+
+.bloco1 a {
+	margin: 0 0 -15px 0;
+}
+
+.bloco2 a {
+	margin: 0 0 -15px 0;
+}
+
+.bloco3 a {
+	margin: 0 0 -15px 0;
+}
+
